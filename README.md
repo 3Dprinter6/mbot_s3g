@@ -1,3 +1,6 @@
+# Design for 212 mBot 3D specifically
+The temporary customized version of the NUK 3D printer
+
 # makerbot_driver
 
 The makerbot_driver module is designed to communicate with a Makerbot Printer via makerbot_driver Packets.  The main objectives of this module are to  transform certain actions (i.e. move-to-a-position, heat-up-a-toolhead) into packets of information to be sent and to decode packets of information received from a printer into human parsable formats.  
